@@ -176,8 +176,19 @@ Je ne savais pas trop ce qu'elle voulait dire, donc j'ai essayé de généralise
 
 Soit $f: \mathbb{R} \mapsto \mathbb{R}, f \in C^0(\mathbb{R})$ On a donc \\
 $\int_a^b f(x) dx$ \hspace{1cm} $\rightarrow$ \hspace{0.2cm} effections le changement de variable $\phi$, une bijection de $\mathbb{R}$ dans $\mathbb{R}$, et $\phi \in C^1(\mathbb{R})$, tq $x = \phi(u)$ et $dx = \phi'(u)du$, ainsi que le changement de borne $u = \phi^-1(x)$, d'où $a \rightarrow \phi^-1(a)$, et $b \rightarrow \phi^-1(b)$,\\
-$=\int_{\phi^-1(a)}^{\phi^-1(b)} f(\phi(u)) \phi'(u) du$
+$=\int_{\phi^-1(a)}^{\phi^-1(b)} f(\phi(u)) \phi'(u) du$ \\ \\
 
+Démonstration quasi triviale (dérivé)
+\subsection{Question difficile}
+
+calcuer $\int_0^{\frac{\pi}{2}} \frac{\sqrt{\cos x}}{\sqrt{\sin x} + \sqrt{\cos x}} dx$ \\
+
+On montre facilement que c'est bien primitivable (continuité de  l'intégrande) \\
+
+\hspace{1cm} $\rightarrow$ On remarque que l'on peut intégrer dans l'autre sens avec la proposition du roi, soit en changeant, le $\cos$ en $\sin$ \\
+
+D'où $2\int_0^{\frac{\pi}{2}} \frac{\sqrt{\cos x}}{\sqrt{\sin x} + \sqrt{\cos x}} dx = \int_0^{\frac{\pi}{2}} \frac{\sqrt{\cos x} + \sqrt{\sin x}}{\sqrt{\sin x} + \sqrt{\cos x}} dx = \int_0^{\frac{\pi}{2}} 1 dx = \frac{\pi}{2}$ \\ \\
+Donc $\int_0^{\frac{\pi}{2}} \frac{\sqrt{\cos x}}{\sqrt{\sin x} + \sqrt{\cos x}} dx = \frac{\pi}{4}$ 
 
 \begin{center}
 \textbf{\large Physique}

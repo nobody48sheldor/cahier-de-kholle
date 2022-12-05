@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.20)  5 DEC 2022 08:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.20)  5 DEC 2022 14:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -346,11 +346,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 174--176
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--192
+
+ []
+
 [3] [4] (./main.aux) ) 
 Here is how much of TeX's memory you used:
  3114 strings out of 478238
  46107 string characters out of 5850455
- 349634 words of memory out of 5000000
+ 353634 words of memory out of 5000000
  21346 multiletter control sequences out of 15000+600000
  472476 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -359,18 +389,19 @@ Here is how much of TeX's memory you used:
 x10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
 share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><
-/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/ms
-am10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on main.pdf (4 pages, 167583 bytes).
+/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.p
+fb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/
+share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/tex
+mf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
+Output written on main.pdf (4 pages, 178253 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 53 compressed objects within 1 object stream
+ 95 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
